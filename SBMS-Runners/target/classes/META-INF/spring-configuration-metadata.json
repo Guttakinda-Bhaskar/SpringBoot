@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "com.app",
+      "type": "com.java.banners.Runners.MyRunners",
+      "sourceType": "com.java.banners.Runners.MyRunners"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.app.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.java.banners.Runners.MyRunners"
+    },
+    {
+      "name": "com.app.name",
+      "type": "java.lang.String",
+      "sourceType": "com.java.banners.Runners.MyRunners"
+    }
+  ],
+  "hints": []
+}

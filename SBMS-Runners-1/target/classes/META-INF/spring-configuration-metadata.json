@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.java.banners.runners.MyRunners",
+      "sourceType": "com.java.banners.runners.MyRunners"
+    }
+  ],
+  "properties": [
+    {
+      "name": "subjects",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.java.banners.runners.MyRunners"
+    }
+  ],
+  "hints": []
+}

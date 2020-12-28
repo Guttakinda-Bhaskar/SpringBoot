@@ -1,0 +1,82 @@
+{
+  "groups": [
+    {
+      "name": "com.app",
+      "type": "com.java.banners.Runners.MyRunners",
+      "sourceType": "com.java.banners.Runners.MyRunners"
+    },
+    {
+      "name": "com.app",
+      "type": "com.java.banners.Runners.SecurityRunners",
+      "sourceType": "com.java.banners.Runners.SecurityRunners"
+    },
+    {
+      "name": "com.app",
+      "type": "com.java.banners.Runners.CLRRunner",
+      "sourceType": "com.java.banners.Runners.CLRRunner"
+    },
+    {
+      "name": "com.app",
+      "type": "com.java.banners.Runners.MVCRunners",
+      "sourceType": "com.java.banners.Runners.MVCRunners"
+    },
+    {
+      "name": "com.app",
+      "type": "com.java.banners.Runners.JDBRunner2",
+      "sourceType": "com.java.banners.Runners.JDBRunner2"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.app.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.java.banners.Runners.MyRunners"
+    },
+    {
+      "name": "com.app.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.java.banners.Runners.SecurityRunners"
+    },
+    {
+      "name": "com.app.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.java.banners.Runners.CLRRunner"
+    },
+    {
+      "name": "com.app.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.java.banners.Runners.MVCRunners"
+    },
+    {
+      "name": "com.app.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.java.banners.Runners.JDBRunner2"
+    },
+    {
+      "name": "com.app.name",
+      "type": "java.lang.String",
+      "sourceType": "com.java.banners.Runners.MyRunners"
+    },
+    {
+      "name": "com.app.name",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.java.banners.Runners.SecurityRunners"
+    },
+    {
+      "name": "com.app.name",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.java.banners.Runners.CLRRunner"
+    },
+    {
+      "name": "com.app.name",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.java.banners.Runners.MVCRunners"
+    },
+    {
+      "name": "com.app.name",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.java.banners.Runners.JDBRunner2"
+    }
+  ],
+  "hints": []
+}
